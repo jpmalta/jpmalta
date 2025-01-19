@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hello, I'm João Malta! 👨‍💻  
+👋 Welcome to my GitHub! 
+I'm a software developer passionate about solving problems, creating efficient systems, and contributing to impactful projects. With hands-on experience in **Java**, **SQL**, and **QA testing**, I’m focused on building high-quality software solutions.
 
-<!--
-**jpmalta/jpmalta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Core Competencies  
+- **Programming Languages:** Java, Python, Kotlin, C, JavaScript  
+- **Web Development:** HTML5, CSS3, JavaScript, Node.js  
+- **Database Management:** MySQL, MSSQL, Firebase  
+- **Software Development:** Object-Oriented Programming (OOP), Agile practices, Git/GitHub  
+- **QA Testing:** Manual and automated testing, ensuring quality across systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📂 Key Experience  
+- **Software Development Intern (Emp Systems, 2023 - 2025):**  
+  - Developed and enhanced systems using proprietary frameworks, XML, and Java.  
+  - Conducted QA testing and created automated test cases.  
+  - Collaborated effectively with cross-functional teams.  
+
+- **Client Operations Intern (Emp Systems, 2023):**  
+  - Monitored and improved system performance.  
+  - Provided client support and resolved technical issues.  
+
+---
+
+## 🔧 Projects and Experience  
+- Developed dynamic applications using **React.js**, **Next.js**, **Laravel**, **PHP**, **C++**, and **Python**.  
+- Built responsive and user-friendly interfaces with **Tailwind CSS** and **Bootstrap**.  
+- Worked on backend development using **Laravel**, **PHP**, and Python frameworks like **Flask**.  
+- Managed databases efficiently with **MySQL**, **Firebase**, and **SQLite**.  
+- Specialized in **API development** and **integration**, focusing on RESTful architecture.  
+
+---
+
+## 🌍 Languages  
+- **Portuguese:** Native  
+- **English:** Advanced (Cambridge certified)  
+
+---
+
+## 🎯 Interests  
+I'm particularly passionate about **Java** and **SQL**, consistently exploring innovative ways to leverage them in software development.
+
+---
+
+## 📬 Let's Connect!  
+- **LinkedIn:** [João Pedro Costa Malta](https://www.linkedin.com/in/joão-pedro-costa-malta)  
+- **GitHub:** [jpmalta](https://github.com/jpmalta)  
+- **Email:** [joaopedromalta1@gmail.com](mailto:joaopedromalta1@gmail.com)  
+
+Feel free to reach out if you're looking for a dedicated developer to bring value to your team.
+
+---
+
+✨ _"Eager to learn, solve complex problems, and contribute to meaningful projects."_
