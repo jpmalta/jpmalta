@@ -25,15 +25,6 @@ I'm a software developer passionate about solving problems, creating efficient s
 
 ---
 
-## 🔧 Projects and Experience  
-- Developed dynamic applications using **React.js**, **Next.js**, **Laravel**, **PHP**, **C++**, and **Python**.  
-- Built responsive and user-friendly interfaces with **Tailwind CSS** and **Bootstrap**.  
-- Worked on backend development using **Laravel**, **PHP**, and Python frameworks like **Flask**.  
-- Managed databases efficiently with **MySQL**, **Firebase**, and **SQLite**.  
-- Specialized in **API development** and **integration**, focusing on RESTful architecture.  
-
----
-
 ## 🌍 Languages  
 - **Portuguese:** Native  
 - **English:** Advanced (Cambridge certified)  
