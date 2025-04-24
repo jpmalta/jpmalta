@@ -5,9 +5,9 @@ I'm a software developer passionate about solving problems, creating efficient s
 ---
 
 ## 🛠️ Core Competencies  
-- **Programming Languages:** Java, Python, Kotlin, C, JavaScript  
+- **Programming Languages:** Java, Python, Kotlin, Flutter, C, JavaScript
 - **Web Development:** HTML5, CSS3, JavaScript, Node.js  
-- **Database Management:** MySQL, MSSQL, Firebase  
+- **Database Management:** MySQL, MSSQL, Firebase, Airtable  
 - **Software Development:** Object-Oriented Programming (OOP), Agile practices, Git/GitHub  
 - **QA Testing:** Manual and automated testing, ensuring quality across systems  
 
