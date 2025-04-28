@@ -32,7 +32,7 @@ I'm a software developer passionate about solving problems, creating efficient s
 ---
 
 ## 🎯 Interests  
-I'm particularly passionate about **Java** and **SQL**, consistently exploring innovative ways to leverage them in software development.
+I'm passionate about technology, always seeking growth through **innovation** and **collaboration**. I have a strong focus on **Java** and **SQL**, consistently exploring creative ways to apply them in software development.
 
 ---
 
