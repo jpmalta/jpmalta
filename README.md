@@ -14,6 +14,12 @@ I'm a software developer passionate about solving problems, creating efficient s
 ---
 
 ## 📂 Key Experience  
+- **Technology Innovation Intern (LegalOpsTools, 2025 – Present):**
+  - Researched and prototyped legal tech solutions to improve internal workflows and document automation.
+  - Assisted in the development of tools using Airtable platform.
+  - Analyzed process inefficiencies and proposed technology-driven improvements.
+  - Collaborated with legal and IT teams to align innovation initiatives with business goals.
+
 - **Software Development Intern (Emp Systems, 2023 - 2025):**  
   - Developed and enhanced systems using proprietary frameworks, XML, and Java.  
   - Conducted QA testing and created automated test cases.  
